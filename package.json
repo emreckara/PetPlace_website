@@ -1,0 +1,20 @@
+{
+  "name": "PetPlace_website",
+  "version": "1.0.0",
+  "description": "Hello, that's the readme for PetPlace.",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "gh-pages": "^2.2.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://emreckara.github.io/PetPlace_website"
+}
